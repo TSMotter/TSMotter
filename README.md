@@ -1,34 +1,37 @@
-### **Hi there,** *Giuliano here... 🤙*
+### **Hi there,** Giuliano here... 🤙
 
-I'm *25 yo Electrical Engineer - Embedded Systems*
+I'm 26 yo Electrical Engineer - Embedded Systems
 
 ---
 
-- *🗺 Where I live:*
-    - *Parana - Brasil;*
-- Where I work:
-    - Trucks Control;
+- 🗺 **I live** in Parana - Brasil;
+
+- 🦾**I work** at [Trucks Control](https://www.truckscomercio.com.br/), there we develop embedded systems to help track, monitor and manage heavy vehicle fleet.
+
 - 💫 I'm weekly in touch with such technologies:
-    - C, Python (mainly file manipulation, COM ports and logging), FreeRTOS, ZephyrRTOS, Git, Lora, BLE, CAN, Electronic products (from concept to manufacturing);
-- 📚 *I’m currently learning and improving on personal projects:*
-    - *CMake, WSL, KiCAD;*
-- 🤜🤛 *I’m looking to collaborate on:*
-    - O*pen source embedded systems projects;*
-- *📫 How to reach me:*
+    - C, RTOSses (FreeRTOS and Zephyr), some Python scripting (mainly file manipulation, COM ports, logging and graph plotting), Git, LoRa, BLE, CAN, overall electronic products development process.
+
+- 🤜🤛 I’m looking to collaborate on:
+    - Open source embedded systems projects.
+
+- 📫 How to reach me:
     - mottergiuliano@gmail.com
 
 ---
 
 ### My Repos:
 
-1. [https://github.com/TSMotter/NewMeter](https://github.com/TSMotter/NewMeter)
-    - STM32CubeIDE Firmware project developed for a smart energy meter, developed during my Masters Degree Course;
+1. [/TSMotter/NewMeter](https://github.com/TSMotter/NewMeter)
+    - Firmware project for smart meter prototype, used to acquire electrical parameters from mains power, developed during my Masters Degree Course;
     - This project runs with:
-        - FreeRTOS
-        - STM32F407 microcontroller
-        - ATM90E36A analog front-end
-        - SX1278 lora transciever
-2. [https://github.com/TSMotter/NewMeter_tools](https://github.com/TSMotter/NewMeter_tools)
+        - STM32CubeIDE;
+        - FreeRTOS;
+        - STM32F407 microcontroller;
+        - ATM90E36A analog front-end;
+        - SX1278 lora transciever;
+  
+2. [/TSMotter/NewMeter_tools](https://github.com/TSMotter/NewMeter_tools)
     - Python tools developed to work with smart energy meter;
-3. [https://github.com/TSMotter/SoftwareTimer](https://github.com/TSMotter/SoftwareTimer)
+  
+3. [/TSMotter/SoftwareTimer](https://github.com/TSMotter/SoftwareTimer)
     - Simple statically allocated software timer module for embedded systems;
