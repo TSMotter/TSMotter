@@ -1,20 +1,13 @@
-### **Hi there,** Giuliano here... 🤙
+## Giuliano Motter, M.S.
 
-I'm an Electrical Engineer working with Embedded Systems
+Embedded Software Engineer with 4 yoe building and maintaining embedded products
 
 ---
 
-- 🗺 I live in Parana - Brasil;
-
-- 🦾I work at Stoneridge Brasil as embedded systems verification engineer and configuration management engineer, where we develop ECUs for heavy vehicles.
-
-<!-- 
-- 💫 I'm weekly in touch with such technologies:
+- I'm weekly in touch with such technologies:
     - C, C++, RTOSes, python, pytest, jenkins, bash scripting, yocto, git, etc
 
-- 🤜🤛 I’m looking to collaborate on:
-    - Open source embedded systems projects.
--->
 
-- 📫 How to reach me:
-    - mottergiuliano@gmail.com
+- How to reach me:
+    - [Linkedin](https://www.linkedin.com/in/eng-giulianomotter/)
+    - [e-mail](mottergiuliano@gmail.com)
