@@ -10,4 +10,4 @@ Embedded Software Engineer with 4 yoe building and maintaining embedded products
 
 - How to reach me:
     - [Linkedin](https://www.linkedin.com/in/eng-giulianomotter/)
-    - [e-mail](mottergiuliano@gmail.com)
+    - e-mail: mottergiuliano@gmail.com
