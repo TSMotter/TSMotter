@@ -1,10 +1,12 @@
-## Giuliano Motter, M.S.
+## Giuliano G Motter
 
-Embedded Software Engineer with 4 yoe building and maintaining embedded products
+Embedded Software Engineer · 4+ years of experience · Masters of Science.
+
+Knowledge building and maintaining embedded products.
 
 ---
 
-- I'm weekly in touch with such technologies:
+- Weekly in touch with such technologies:
     - C, C++, RTOSes, python, pytest, jenkins, bash scripting, yocto, git, etc
 
 
