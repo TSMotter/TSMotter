@@ -11,5 +11,5 @@ Knowledge building and maintaining embedded products (I have been part of System
 
 
 - How to reach me:
-    - [Linkedin](https://www.linkedin.com/in/eng-giulianomotter/)
-    - e-mail: mottergiuliano@gmail.com
+    - [linkedin.com/in/eng-giulianomotter](https://www.linkedin.com/in/eng-giulianomotter/)
+    - mottergiuliano@gmail.com
